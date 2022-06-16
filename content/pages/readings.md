@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the required text, the list of readings,
+  and discussion questions for the readings.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
