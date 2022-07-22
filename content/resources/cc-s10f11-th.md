@@ -11,10 +11,10 @@ image_metadata:
   credit: Photo courtesy of iwishmynamewasmarsha on Flickr. CC-BY-SA
   image-alt: A photograph of an apple tree with some flowers around the base.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Newton's Apple Tree (thumbnail)
 uid: 1d2f5595-26ae-d479-0ce6-f1e91517855f
 ---
 A tree said to be descended from the tree that Newton sat under while he thought about gravity. Photo courtesy of phil dokas on Flickr. CC-BY-NC-SA
-
