@@ -3,6 +3,7 @@ content_type: resource
 description: A tree said to be descended from the tree that Newton sat under while
   he thought about gravity. Photo courtesy of phil dokas on Flickr. CC-BY-NC-SA
 file: /courses/cc-s10-history-and-philosophy-of-mechanics-newtons-principia-mathematica-fall-2011/1d2f559526aed4790ce6f1e91517855f_cc-s10f11-th.jpg
+file_size: 8014
 file_type: image/jpeg
 image_metadata:
   caption: A tree said to be descended from the tree that Newton sat under while he
