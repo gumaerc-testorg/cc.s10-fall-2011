@@ -41,7 +41,7 @@ DISCUSSION QUESTIONS
 The problem of motion in Greek Antiquity: Zeno and Aristotle
 {{< tdclose >}}
 {{< tdopen >}}
-Aristotle's _[Physics](http://classics.mit.edu/Aristotle/physics.html)._
+Aristotle's _{{% resource_link "2fea84f4-b127-4372-b266-ad50a0285fc8" "Physics" %}}._
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -68,11 +68,11 @@ Galileo's _Discourses Concerning Two New Sciences_ (1638).
 
 Galilei, Galileo. _Galileo: Two New Sciences_. Translated by Stillman Drake. University of Wisconsin Press, 1974. ISBN: 9780299064044:
 
-\---. Third Day, _On Local Motion_. \[Preview with [Google Books](http://books.google.com/books?id=n5cbjKmaZBwC&pg=PA153#v=onepage)\]
+\---. Third Day, _On Local Motion_. \[Preview with {{% resource_link "f388213c-b93b-4f83-8eef-828099cecbb7" "Google Books" %}}\]
 
-_\---. On Equable Motion_. \[Preview with [Google books](http://books.google.com/books?id=n5cbjKmaZBwC&pg=PA153#v=onepage)\]
+_\---. On Equable Motion_. \[Preview with {{% resource_link "f388213c-b93b-4f83-8eef-828099cecbb7" "Google books" %}}\]
 
-_\---. On Naturally Accelerated Motion_ through Proposition II. \[Preview with [Google Books](http://books.google.com/books?id=n5cbjKmaZBwC&pg=PA160#v=onepage)\]
+_\---. On Naturally Accelerated Motion_ through Proposition II. \[Preview with {{% resource_link "f78fe526-51ed-40ed-ac37-35dc691cfe92" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -105,7 +105,7 @@ Introduction to Newton's _Principia_
 
 _Philosophical Reading:_
 
-"Aristotle on Place, Time, Void, and Projectile Motion." In Aristotle's [_Physics_](http://classics.mit.edu/Aristotle/physics.html).
+"Aristotle on Place, Time, Void, and Projectile Motion." In Aristotle's {{% resource_link "2fea84f4-b127-4372-b266-ad50a0285fc8" "_Physics_" %}}.
 
 
 {{< tdclose >}}
@@ -366,7 +366,7 @@ Newton's Propositions (cont.)
 
 _Philosophical Reading:_
 
-Descartes, René. _Principia Philosophiae_, Part II (1644). \[Preview with [Google Books](http://books.google.com/books?id=lHpbAAAAQAAJ&printsec=frontcover)\]
+Descartes, René. _Principia Philosophiae_, Part II (1644). \[Preview with {{% resource_link "435b6aa2-6558-4847-ac85-43121518bb7a" "Google Books" %}}\]
 
 A more recent edition of the text: Descartes, René. _Principia Philosophiae (1677)_. Kessinger Publishing, 2010. ISBN: 9781166267605.
 
@@ -472,7 +472,7 @@ Apollonius' _On Conic Sections:_
 
 _Philosophical Reading:_
 
-Huygens, Christian. "Huygens on the Hypothetico-Deductive Method." In [_Treatise on Light (1687)_](http://www.gutenberg.org/ebooks/14725). \[Preview with [Google Books](http://books.google.com/books?id=j75UjsuenmEC&pg=PA232&lpg#v=onepage)\]
+Huygens, Christian. "Huygens on the Hypothetico-Deductive Method." In {{% resource_link "06620525-eda5-4ae5-810b-d0240fd126b2" "_Treatise on Light (1687)_" %}}. \[Preview with {{% resource_link "de3314fd-a62c-46c2-858f-c01daaf93b82" "Google Books" %}}\]
 
 A more recent edition of the text: Huygens, Christian. _Treatise on Light_. Tredition, 2011. ISBN: 9783842476653.
 
@@ -501,7 +501,7 @@ Book III Propositions 45, 48, 49, 51, and 52.
 
 _Philosophical Reading:_
 
-Huygens, Christian. "Huygens on the Hypothetico-Deductive Method." In [_Treatise on Light (1687)_](http://www.gutenberg.org/ebooks/14725). \[Preview with [Google Books](http://books.google.com/books?id=j75UjsuenmEC&pg=PA232&lpg#v=onepage)\]
+Huygens, Christian. "Huygens on the Hypothetico-Deductive Method." In {{% resource_link "06620525-eda5-4ae5-810b-d0240fd126b2" "_Treatise on Light (1687)_" %}}. \[Preview with {{% resource_link "de3314fd-a62c-46c2-858f-c01daaf93b82" "Google Books" %}}\]
 
 A more recent edition of the text: Huygens, Christian. _Treatise on Light_. Tredition, 2011. ISBN: 9783842476653.
 
@@ -530,7 +530,7 @@ Apollonius' _On Conic Sections_:
 
 _Philosophical Reading:_
 
-Huygens, Christian. "Huygens on the Hypothetico-Deductive Method." In [_Treatise on Light (1687)_](http://www.gutenberg.org/ebooks/14725). \[Preview with [Google Books](http://books.google.com/books?id=j75UjsuenmEC&pg=PA232&lpg#v=onepage)\]
+Huygens, Christian. "Huygens on the Hypothetico-Deductive Method." In {{% resource_link "06620525-eda5-4ae5-810b-d0240fd126b2" "_Treatise on Light (1687)_" %}}. \[Preview with {{% resource_link "de3314fd-a62c-46c2-858f-c01daaf93b82" "Google Books" %}}\]
 
 A more recent edition of the text: Huygens, Christian. _Treatise on Light_. Tredition, 2011. ISBN: 9783842476653.
 
@@ -927,7 +927,7 @@ Book III Propositions (cont.)
 
 _Philosophical Reading:_
 
-Berkeley, George. "Berkeley's Philosophical Critique of the Calculus." In _The Analyst_ (1754). \[Preview with [Google Books](http://books.google.com/books?id=TqCZhiQdXogC&printsec=frontcover)\]
+Berkeley, George. "Berkeley's Philosophical Critique of the Calculus." In _The Analyst_ (1754). \[Preview with {{% resource_link "47ed5498-3e18-4c20-9866-f38276256027" "Google Books" %}}\]
 
 A more recent edition of the text: Berkeley, George. _The Analyst A Discourse Addressed To An Infidel Mathematician._ Kessinger Publishing, 2010. ISBN: 9781161456448.
 
